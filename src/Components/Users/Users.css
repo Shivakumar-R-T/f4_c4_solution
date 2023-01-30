@@ -1,0 +1,16 @@
+.body{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.Top{
+    width:100vw;
+    height: 80vh;
+
+}
+.Bottom{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
